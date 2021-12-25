@@ -1,1 +1,1 @@
-# security-bot
+# SafetyBot Security
