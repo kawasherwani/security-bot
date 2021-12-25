@@ -1,7 +1,7 @@
 {
-  "name": "Alex",
+  "name": "Carlo",
   "version": "4.0.0",
-  "description": "-- AWESOMENESS --",
+  "description": "Awsome Security",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
