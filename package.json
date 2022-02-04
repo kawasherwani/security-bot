@@ -38,6 +38,6 @@
     "node-fetch": "^2.6.1"
   },
   "engines": {
-    "node": "12.x"
+    "node": "16.x"
   }
 }
